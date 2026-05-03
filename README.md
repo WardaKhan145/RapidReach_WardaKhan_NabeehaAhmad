@@ -16,7 +16,6 @@ Emergency Assistance SystemRapidReach is a high-speed Python desktop application
 Beyond the desktop version, we have developed a modern web-based variant using HTML, CSS, and JavaScript.  
 
 **Modern Aesthetics:**   Includes a splash screen, fluid animations, and a contemporary color palette.  
-
 **Scalability:**   Demonstrates how the core RapidReach logic can be ported to cross-platform web technologies.
 
 # Project Documentation:
