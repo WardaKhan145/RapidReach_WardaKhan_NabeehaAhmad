@@ -12,6 +12,13 @@ Emergency Assistance SystemRapidReach is a high-speed Python desktop application
 **Panic-Proof UI:**   A clean, dark-themed interface designed for high-stress navigation.  
 **Zero-Dependency:**   Lightweight build using Python’s standard library (Tkinter). 
 
+# Enhanced Web Implementation
+Beyond the desktop version, we have developed a modern web-based variant using HTML, CSS, and JavaScript.  
+
+**Modern Aesthetics:**   Includes a splash screen, fluid animations, and a contemporary color palette.  
+
+**Scalability:**   Demonstrates how the core RapidReach logic can be ported to cross-platform web technologies.
+
 # Project Documentation:
 
 For a deep dive into our system design, objectives, features and complete data structures, please refer to the attached : [RapidReach-Report.docx]
