@@ -14,4 +14,4 @@ Emergency Assistance SystemRapidReach is a high-speed Python desktop application
 
 # Project Documentation:
 
-For a deep dive into our working algorithm, system design, and complete data structures, please refer to the attached:[RapidReach-Report.docx]
+For a deep dive into our system design, objectives, features and complete data structures, please refer to the attached : [RapidReach-Report.docx]
